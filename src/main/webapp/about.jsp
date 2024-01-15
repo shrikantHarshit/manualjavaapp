@@ -1,14 +1,13 @@
-<%@ page language="java" contentType="text/html; charset=US-ASCII"
-    pageEncoding="US-ASCII"%>
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html >
 <html>
 <head>
-<meta charset="US-ASCII">
+<meta charset="ISO-8859-1">
 <title>About page</title>
 </head>
 <body>
 <h3>Hi Pankaj</h3><br>
-<strong>Current Time is</strong>: <%=new Date() %>
 
 </body>
 </html>
